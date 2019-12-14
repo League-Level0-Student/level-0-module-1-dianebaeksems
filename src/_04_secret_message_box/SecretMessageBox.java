@@ -35,9 +35,10 @@ if(guess.equals(password)){
  JOptionPane.showMessageDialog(null,secret);
 }
 	// 5. If the password does not match, pop-up "INTRUDER!!"
-}}
-	
-	
-	
+  
 
-`
+else {JOptionPane.showMessageDialog(null, "INTRUDER!");
+}}}
+	
+	
+	

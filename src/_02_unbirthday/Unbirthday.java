@@ -6,7 +6,7 @@ public class Unbirthday {
 
 	public static void main(String[] args) {
 		String Input= JOptionPane.showInputDialog("when is your birthday"); 
-				if(Input.equals("November 20th")) {   
+				if(Input.equals("june 7th ")) {   
 					
 					
 					
